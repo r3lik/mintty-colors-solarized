@@ -14,13 +14,6 @@ or
 
 	cat ./.minttyrc.dark >> ~/.minttyrc
 
-Then open the config file and remove the 3 pre-existing color settings for:
-
-	ForegroundColour= ...
-	BackgroundColour= ...
-	CursorColour= ...
-
-as they will be re-specified further down in the appended section.
 
 ## Adding to your login scripts
 
